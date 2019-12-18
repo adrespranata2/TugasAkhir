@@ -1,0 +1,7 @@
+Nilai S : 	2800
+Nilai V : 	1400
+Nilai T : 	4
+==================================================
+Hasil Nilai S : 	2800.0
+Hasil Nilai V : 	1400.0
+Hasil Nilai T : 	4.0
