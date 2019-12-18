@@ -1,0 +1,5 @@
+1). Kapal pencari harta karun memancarkan bunyi ke dasar laut. Jika cepat rambat bunyi gelombang di air laut 1400 m/s
+    dan setelah 2 sekon kemudian terdengar bunyi pantul. Berapakah kedalaman dasar laut tersebut?
+2). Kapal perang Indonesia mendeteksi adanya benda aneh di dasar laut setelah memancarkan gelombang. Jika dasar lautan
+    yang dideteksi pada kedalaman 3500 meter. Tentukan waktu bunyi pantul yang terdengar oleh kapal!
+    (kecepatan gelombang bunyi pada air laut 1400 m/s)
